@@ -1,0 +1,21 @@
+{
+  "name": "Desarrollo basado en componentes angular",
+  "homepage": "https://github.com/Jonathangarrido/Desarrollo-basado-en-componentes-AngularJS",
+  "authors": [
+    "jonathan <jonathan.garrido1988@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3"
+  }
+}
